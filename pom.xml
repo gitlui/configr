@@ -11,7 +11,7 @@
     <properties>
         <kotlin.version>1.2.51</kotlin.version>
         <kotlin.compiler.incremental>true</kotlin.compiler.incremental>
-        <mainclass>Main</mainclass>
+        <main.class>Main</main.class>
     </properties>
 
     <dependencies>
