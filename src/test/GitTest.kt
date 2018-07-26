@@ -7,6 +7,4 @@ class GitTest {
         val git = Git("TestURI")
         assertEquals("TestURI", git.uri)
     }
-
-
 }
